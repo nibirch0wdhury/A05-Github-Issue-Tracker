@@ -1,4 +1,4 @@
-1️⃣ What is the difference between var, let, and const?
+**1️⃣ What is the difference between var, let, and const?**
 All three are used to declare variables in JavaScript. The main difference is how they handle scope and reassignment. var is the older way and it is function scoped, which can sometimes lead to unexpected behavior. let and const were introduced in ES6 and they are block scoped, which makes them safer to use. let allows the variable value to be changed later, while const does not allow reassignment after it is declared.
 
 2️⃣ What is the spread operator (...) ?
